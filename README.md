@@ -2,6 +2,7 @@
 Use Connman instead of NetworkManager
 
 **Merits** **&** **Notes:** [Artix-Linux_Connaman](https://wiki.artixlinux.org/Main/Installation#OpenRC), [CMST-Git](https://github.com/andrew-bibb/cmst), [CMST-Settings](https://manpages.ubuntu.com/manpages/bionic/man1/cmst.1.html), [OpenRC-Wiki (including "SystemD")](https://wiki.archlinux.org/title/OpenRC).
+
 **Why:** I use `connman`, `cmst` and correlated "daemon" `connmand` for switching off the network-connection without to detach the cable or shutdown the PC. This most useful by notebooks not having a cable. You can use as front-end-GUI even `connman-gtk` instead of `cmst`.
 
 ### 1. Important Notes/Advices
