@@ -72,4 +72,4 @@ rc-status --servicelist -s | grep NetworkManager
 
 ```
 
-[x] **Done!** **&** **Enjoy**
+- [x] **Done & Enjoy !**
